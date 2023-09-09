@@ -7,8 +7,8 @@ I have developed the portfolio site using :
 2) `SCSS`
 3) `ReactJs`
 
-# To initiate the site :
+# For installation :
 Type `npm install`
 
-# To run the site in the browser :
+# To start the site :
 Type `npm start`
